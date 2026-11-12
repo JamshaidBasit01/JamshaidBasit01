@@ -10,9 +10,6 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamshaid-Basit)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamshaidbasit0011@gmail.com)
 
-![Followers](https://img.shields.io/github/followers/JamshaidBasit01?label=Followers&style=flat-square&color=00C9A7)
-![Repos](https://img.shields.io/badge/Public%20Repos-14-0A66C2?style=flat-square)
-
 </div>
 
 ---
@@ -91,14 +88,14 @@ reach_me:    jamshaidbasit0011@gmail.com
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack | |
+| Project | What it does | Stack | Language |
 |---|---|---|---|
-| [**auto-scraper-rag**](https://github.com/JamshaidBasit01/auto-scraper-rag) | Scrapes websites, cleans data to text and stores it in a vector DB for intelligent querying | `RAG` `Vector DB` `Web Scraping` | ![Stars](https://img.shields.io/github/stars/JamshaidBasit01/auto-scraper-rag?style=flat-square) |
-| [**FLIGHT_AGENT-**](https://github.com/JamshaidBasit01/FLIGHT_AGENT-) | Multi-agent AI travel assistant: plans trips, books flights and hotels, safety guidance | `Multi-Agent` `Python` | ![Stars](https://img.shields.io/github/stars/JamshaidBasit01/FLIGHT_AGENT-?style=flat-square) |
-| [**smart-docs**](https://github.com/JamshaidBasit01/smart-docs) | Document intelligence: chunking, embeddings, semantic search and Q&A | `Embeddings` `Semantic Search` | ![Stars](https://img.shields.io/github/stars/JamshaidBasit01/smart-docs?style=flat-square) |
-| [**ResumePilot**](https://github.com/JamshaidBasit01/ResumePilot) | Matches resumes to job descriptions and ranks candidates with NLP | `NLP` `Python` | ![Stars](https://img.shields.io/github/stars/JamshaidBasit01/ResumePilot?style=flat-square) |
-| [**TextGuard-AI-vs-Human**](https://github.com/JamshaidBasit01/TextGuard-AI-vs-Human) | Detects AI-generated vs human-written text from linguistic and semantic features | `NLP` `Classification` | ![Stars](https://img.shields.io/github/stars/JamshaidBasit01/TextGuard-AI-vs-Human?style=flat-square) |
-| [**Movie-Conversational-Agent**](https://github.com/JamshaidBasit01/Movie-Conversational-Agent) | Chatbot with conversation memory for movie questions | `LangChain` | ![Stars](https://img.shields.io/github/stars/JamshaidBasit01/Movie-Conversational-Agent?style=flat-square) |
+| [**auto-scraper-rag**](https://github.com/JamshaidBasit01/auto-scraper-rag) | Scrapes websites, cleans data to text and stores it in a vector DB for intelligent querying | `RAG` `Vector DB` `Web Scraping` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/auto-scraper-rag?style=flat-square) |
+| [**FLIGHT_AGENT-**](https://github.com/JamshaidBasit01/FLIGHT_AGENT-) | Multi-agent AI travel assistant: plans trips, books flights and hotels, safety guidance | `Multi-Agent` `Python` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/FLIGHT_AGENT-?style=flat-square) |
+| [**smart-docs**](https://github.com/JamshaidBasit01/smart-docs) | Document intelligence: chunking, embeddings, semantic search and Q&A | `Embeddings` `Semantic Search` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/smart-docs?style=flat-square) |
+| [**ResumePilot**](https://github.com/JamshaidBasit01/ResumePilot) | Matches resumes to job descriptions and ranks candidates with NLP | `NLP` `Python` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/ResumePilot?style=flat-square) |
+| [**TextGuard-AI-vs-Human**](https://github.com/JamshaidBasit01/TextGuard-AI-vs-Human) | Detects AI-generated vs human-written text from linguistic and semantic features | `NLP` `Classification` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/TextGuard-AI-vs-Human?style=flat-square) |
+| [**Movie-Conversational-Agent**](https://github.com/JamshaidBasit01/Movie-Conversational-Agent) | Chatbot with conversation memory for movie questions | `LangChain` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/Movie-Conversational-Agent?style=flat-square) |
 
 <details>
 <summary><b>➕ More repositories</b></summary>
@@ -140,6 +137,14 @@ reach_me:    jamshaidbasit0011@gmail.com
 - Mentored 3 junior engineers on RAG, LangGraph and MLOps.
 
 </details>
+
+---
+
+## 🎓 Education & Research
+
+- **M.Sc. Software Engineering (AI & Machine Learning)**, NUST, Islamabad. Thesis: *Enhancing the Accuracy of RAG Models and LLMs*, benchmarking hybrid dense + BM25 / Elasticsearch retrieval with reranking.
+- **B.Sc. Electrical Engineering (Computer Science major)**, UET Lahore.
+- Publications and research profile: [Google Scholar](https://scholar.google.com/citations?user=K4hlEhQAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Jamshaid-Basit)
 
 ---
 
