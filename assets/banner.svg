@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-label="Jamshaid Basit, AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1F3A"/>
+      <stop offset="55%" stop-color="#0A66C2"/>
+      <stop offset="100%" stop-color="#00C9A7"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="280" rx="16" fill="url(#bg)"/>
+
+  <!-- network / neural decoration -->
+  <g stroke="#ffffff" stroke-opacity="0.22" stroke-width="1.5" fill="none">
+    <path d="M880 60 L980 110 L1090 70 L1190 130 L1100 200 L980 170 L880 220 L980 110"/>
+    <path d="M1090 70 L1100 200"/>
+    <path d="M980 170 L1190 130"/>
+  </g>
+  <g fill="#ffffff" fill-opacity="0.55">
+    <circle cx="880" cy="60" r="6"/>
+    <circle cx="980" cy="110" r="8"/>
+    <circle cx="1090" cy="70" r="6"/>
+    <circle cx="1190" cy="130" r="9"/>
+    <circle cx="1100" cy="200" r="7"/>
+    <circle cx="980" cy="170" r="6"/>
+    <circle cx="880" cy="220" r="8"/>
+  </g>
+
+  <!-- text -->
+  <text x="80" y="125" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#ffffff">Jamshaid Basit</text>
+  <rect x="82" y="145" width="360" height="3" rx="2" fill="url(#line)"/>
+  <text x="82" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#E8F4FF">AI Engineer  |  GenAI, RAG &amp; LLM Systems</text>
+  <text x="82" y="228" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#CFE8FF" fill-opacity="0.9">LangGraph · Hybrid Retrieval · LLM Fine-Tuning · MLOps</text>
+</svg>
