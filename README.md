@@ -88,14 +88,18 @@ reach_me:    jamshaidbasit0011@gmail.com
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack | Language |
-|---|---|---|---|
-| [**auto-scraper-rag**](https://github.com/JamshaidBasit01/auto-scraper-rag) | Scrapes websites, cleans data to text and stores it in a vector DB for intelligent querying | `RAG` `Vector DB` `Web Scraping` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/auto-scraper-rag?style=flat-square) |
-| [**FLIGHT_AGENT-**](https://github.com/JamshaidBasit01/FLIGHT_AGENT-) | Multi-agent AI travel assistant: plans trips, books flights and hotels, safety guidance | `Multi-Agent` `Python` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/FLIGHT_AGENT-?style=flat-square) |
-| [**smart-docs**](https://github.com/JamshaidBasit01/smart-docs) | Document intelligence: chunking, embeddings, semantic search and Q&A | `Embeddings` `Semantic Search` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/smart-docs?style=flat-square) |
-| [**ResumePilot**](https://github.com/JamshaidBasit01/ResumePilot) | Matches resumes to job descriptions and ranks candidates with NLP | `NLP` `Python` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/ResumePilot?style=flat-square) |
-| [**TextGuard-AI-vs-Human**](https://github.com/JamshaidBasit01/TextGuard-AI-vs-Human) | Detects AI-generated vs human-written text from linguistic and semantic features | `NLP` `Classification` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/TextGuard-AI-vs-Human?style=flat-square) |
-| [**Movie-Conversational-Agent**](https://github.com/JamshaidBasit01/Movie-Conversational-Agent) | Chatbot with conversation memory for movie questions | `LangChain` | ![](https://img.shields.io/github/languages/top/JamshaidBasit01/Movie-Conversational-Agent?style=flat-square) |
+<div align="center">
+
+| Project | What I built | Focus |
+|---|---|---|
+| [**hybrid-rag-benchmark**](https://github.com/JamshaidBasit01/hybrid-rag-benchmark) | Reproducible benchmark comparing BM25, dense, hybrid (RRF) and reranked retrieval on BEIR datasets, measured with nDCG, Recall and MRR. | `Retrieval` `BM25` `Reranking` `IR Metrics` |
+| [**llm-gateway-fastapi**](https://github.com/JamshaidBasit01/llm-gateway-fastapi) | FastAPI gateway for OpenAI, Anthropic, Gemini and Groq with fallback, caching, rate limiting and cost tracking. 40 tests, CI on Python 3.10 to 3.12. | `FastAPI` `Redis` `LLM Ops` |
+| [**multi-agent-langgraph-analyst**](https://github.com/JamshaidBasit01/multi-agent-langgraph-analyst) | LangGraph multi-agent analyst that answers with citations and checks every claim with a deterministic verifier. | `LangGraph` `Multi-Agent` `Citations` |
+| [**rag-eval-toolkit**](https://github.com/JamshaidBasit01/rag-eval-toolkit) | Evaluation toolkit for RAG systems (faithfulness, citation precision, abstention) with bootstrap confidence intervals. | `RAG Eval` `Faithfulness` `Statistics` |
+| [**qlora-finetuning-toolkit**](https://github.com/JamshaidBasit01/qlora-finetuning-toolkit) | Config-driven QLoRA toolkit with data validation, loss masking and GPU memory estimation. | `QLoRA` `PEFT` `Fine-Tuning` |
+| [**etl-streaming-pipeline**](https://github.com/JamshaidBasit01/etl-streaming-pipeline) | Event-time streaming ETL engine with watermarks, dedupe and crash-safe recovery verified by fault-injection tests. | `Streaming` `Data Engineering` `ETL` |
+
+</div>
 
 <details>
 <summary><b>➕ More repositories</b></summary>
@@ -103,6 +107,12 @@ reach_me:    jamshaidbasit0011@gmail.com
 
 | Project | Description |
 |---|---|
+| [auto-scraper-rag](https://github.com/JamshaidBasit01/auto-scraper-rag) | Scrapes websites, cleans data to text and stores it in a vector DB for intelligent querying |
+| [flight-agent](https://github.com/JamshaidBasit01/flight-agent) | Multi-agent AI travel assistant: plans trips, books flights and hotels, safety guidance |
+| [smart-docs](https://github.com/JamshaidBasit01/smart-docs) | Document intelligence: chunking, embeddings, semantic search and Q&A |
+| [ResumePilot](https://github.com/JamshaidBasit01/ResumePilot) | Matches resumes to job descriptions and ranks candidates with NLP |
+| [TextGuard-AI-vs-Human](https://github.com/JamshaidBasit01/TextGuard-AI-vs-Human) | Detects AI-generated vs human-written text from linguistic and semantic features |
+| [Movie-Conversational-Agent](https://github.com/JamshaidBasit01/Movie-Conversational-Agent) | LangChain chatbot with conversation memory for movie questions |
 | [Summary-Keyword-Agent](https://github.com/JamshaidBasit01/Summary-Keyword-Agent) | LangChain + Gemini 2.5 Flash agent for summarization and keyword extraction |
 | [Deep-Learning-Colab-Ready](https://github.com/JamshaidBasit01/Deep-Learning-Colab-Ready) | Colab-ready deep learning notebooks (IITM Workshop 2026, NTU Bootcamp 2026) |
 | [CropSense](https://github.com/JamshaidBasit01/CropSense) | ML-based crop recommendation from soil conditions |
